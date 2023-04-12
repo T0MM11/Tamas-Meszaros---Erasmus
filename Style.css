@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(249, 235, 213);
+    border-top: solid rgb(135, 92, 31) 3.5cm;
+    margin: 0%;
+}
+
+tr {
+    width: 100%;
+    border: 5% hidden;
+}
+
+img {
+    width: 550px;
+    height: 350px;
+}
+
+#coffee {
+    width: 400px;
+    height: 380px;
+}
+
+#header {
+    width: 1225px;
+    height: 250px;
+}
+
+h2 {
+    text-align: center;
+}
