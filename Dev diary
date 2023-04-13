@@ -5,3 +5,26 @@ Day 1.)
 Today I planned the design of my website and I started to write the code of it. My website will be a website of an imaginary gamer café, named "Co-op Café".
 The main colours are brownis-yellow and white. I used ChatGPT to write the texts on the webpage. As for the pictures I download some from the internet and I made one with DALL-E 2 AI.
 My plane for tomorrow is finishing my website and maybe make better design on it.
+
+
+Day 2.)
+Today I continued my website. I made better header on the top of the website. in this header there are 3 option. You can go to the "Home" page (default), "Prices" page and "Gallery" page.
+All of the pages are responsible. If you click one of them, you will travel that page. These are the details of each:
+
+Home:
+This is the default page od my website. Here you can learn about the Café itself, it's equippments, and it's offers.
+From this page, you can travel to "Prices" and "Gallery" pages.
+
+Prices:
+On this page there is a price table with the menu. You can read here what meals/drinks does the café offer with their prices.
+From this page, you can travel to "Home" and "Gallery" pages.
+
+Gallery:
+On this website you can see photos about the Café (there is 4 photos).
+From this page, you can travel to "Home" and "Prices" pages.
+
+Besides the pages and the header I made a footer. It's simmilar to the header, but there you can see social media icons, the email address, the phone number and the address of the café.
+Every of them are responsible (except the phone number). If you click one of the social media icons you will travel to that website (Facebook, Instagram, TikTok).
+If you click on the addresses, you will also travel their own websites (Gmail, Google Maps).
+
+I am satisfied with my work, but I will fix everything if Manuel will find problems or has any idea to expand or upgrade my website.
