@@ -1,0 +1,88 @@
+body {
+    background-color: rgb(225, 207, 164);
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+tr {
+    width: 100%;
+    border: 5% hidden;
+}
+
+img {
+    width: 100%;
+    width: 550px;
+    height: 350px;
+}
+
+#coffee {
+    width: 400px;
+    height: 380px;
+}
+
+#header {
+    width: 1225px;
+    height: 250px;
+}
+
+h2 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header {
+    background-color: rgb(222, 210, 82);
+    height: 60px;
+}
+  
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;
+}
+  
+nav ul li {
+    margin: 0 10px;
+}
+  
+nav ul li a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+footer {
+    background-color: rgb(43, 37, 28);
+    height: 180px;
+}
+
+.socialm {
+    height: 60px;
+    width: 60px;
+}
+
+#footertxt {
+    color: white;
+}
+
+.table {
+    text-align: center;
+}
+
+#prc {
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+h1 {
+    text-align: center;
+}
